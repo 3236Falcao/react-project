@@ -3,4 +3,4 @@ const user = {
 }
 
 console.log(user.address?.street)
-//Não consegui converter para o babel
+//Não consegui converter para o babel. Parei em configurando o ambinete 9:31
