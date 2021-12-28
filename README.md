@@ -23,7 +23,7 @@ CONTEÚDOS:
 <!--te-->
 
 <h4 align="center"> 
-	🚧  .NET Select 🚀 Em construção...  🚧
+	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
 ### Funcionalidades:
