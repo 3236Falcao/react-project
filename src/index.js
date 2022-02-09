@@ -1,6 +1,5 @@
-const user = {
-    name: 'Daniel',
-}
+import React from "react";
 
-console.log(user.address?.street)
-//Não consegui converter para o babel. Parei em configurando o ambinete 9:31
+function App() {
+    return <h1>Olá mundo!</h1>
+}
