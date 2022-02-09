@@ -1,5 +1,9 @@
-import React from "react";
+import { render } from "react-dom";
+import { App } from "./App"
 
-function App() {
-    return <h1>Olá mundo!</h1>
-}
+// function teste() {
+//     return <h1>Ola mundo</h1>
+// }
+
+//o render recebe como primeiro parâmetro quem será renderizado e no segundo parâmetro onde ele será rendereizado
+render(<App/>, document.getElementById('root'))
